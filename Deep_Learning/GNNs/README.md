@@ -12,7 +12,7 @@ Special thanks to **Shirui Pan** one of the authors of the paper (A comprehensiv
 
 Recently, many studies on extending deep learning approaches for graph data have emerged, which gave birth to GNNs. GNNs have similar properties as its DL counterparts, capable of doing regression, classification, generating data for empty nodes, edges and so much more that we are yet to find out. The field is still at its beginning stages, who knows what we could do in a few years and a couple of thousand papers from now...
 
-### **NOTE**: The [notebook](https://github.com/Blaizzy/Boring_weekends/blob/master/Deep_Learning/GNNs/GNNs.ipynb) in this repo was developed taking into account you read my article [Can Graph Neural Networks Solve Real-World Problems ](https://hackernoon.com/can-graph-neural-networks-solve-real-world-problems-7hd636dn) or have some previous domain knowledge. If you don't know about GNNs please take a minute and read my article, it will help you get a better understanding.
+### **NOTE**: The [notebook](https://colab.research.google.com/drive/16T8JY_XG949m-dLSm-AMJvlXwN-VdjUK#scrollTo=aHclveU5wEZ5) in this repo was developed taking into account you read my article [Can Graph Neural Networks Solve Real-World Problems ](https://hackernoon.com/can-graph-neural-networks-solve-real-world-problems-7hd636dn) or have some previous domain knowledge. If you don't know about GNNs please take a minute and read my article, it will help you get a better understanding.
 
 ![alt text](https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif)
 
