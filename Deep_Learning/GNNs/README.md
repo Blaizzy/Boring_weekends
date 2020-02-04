@@ -18,10 +18,12 @@ Recently, many studies on extending deep learning approaches for graph data have
 
 In this nodebook we are going to take 2 GNNs libraries built atop of Pytorch:
  - DGL
- - Pytorch Geometric
+ - Pytorch Geometric(Under Development...)
+ 
 And we are going to look at too task:
  - Node classification
  - Graph Classification
+ 
 # Node classification(Cluster formation)
 Here we will binary node classification to predict whether a node is going to be in the cluster 1 or cluster 2 represented by node 0 and 33 which.
 A typical example of friend recommendation system, just like facebook does to you. 
