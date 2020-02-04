@@ -18,7 +18,7 @@ Recently, many studies on extending deep learning approaches for graph data have
 
 In this nodebook we are going to take 2 GNNs libraries built atop of Pytorch:
  - DGL
- - Pytorch Geometric(Under Development...)
+ - Pytorch Geometric **(still Under Development...)**
  
 And we are going to look at too task:
  - Node classification
