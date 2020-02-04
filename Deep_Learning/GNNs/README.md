@@ -1,14 +1,12 @@
 Before we begin I want to give credits and congrats to the authors of:
  - [GNNs in 2020 by Siraj Raval(the first video I watched after you come back and I have to hell of a come back brother!!!)](https://www.youtube.com/watch?v=bA261BF0bdk)
  - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/pdf/1901.00596.pdf)(A really great paper, please check it out)
- - [Graph neural networks: Variations and applications
- by 
-Microsoft Research](https://www.youtube.com/watch?v=cWIeTMklzNg&t=416s)
+ - [Graph neural networks: Variations and applications by Microsoft Research](https://www.youtube.com/watch?v=cWIeTMklzNg&t=416s)
  - [DGL](https://docs.dgl.ai/tutorials/basics/1_first.html)(Great library, with great examples and docs. Great lib to take a look under-the-hood of GNNs)
  - [Pytorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html#id2)(Great libray, great examples and very simplified. Which makes it great for beginners). <br>
  
 The people behind these projects did a fenomenal work.<br>
-Special thanks to **Shirui Pan** one of the authors of the paper (A comprehensive Survey...) for reading my article and let me know. And to **Siraj Raval** for making the video. I know he made a big mistake, I followed the story, but just like any of us(and Neural Nets) I belive he can learn and improve from that mistake. We are only Humans, perfect imperfections.
+Special thanks to **Shirui Pan** one of the authors of the paper (A comprehensive Survey...) for reading my article and let me know.To the guy who made the Microsoft Research Video And to **Siraj Raval** for making the video. I know he made a big mistake, I followed the story, but just like any of us(and Neural Nets) I belive he can learn and improve from that mistake. We are only Humans, perfect imperfections.
 His video about GNNs which came after the apology video he posted, was the beginning of my curiosity and interest in GNN, also the first video I watched after he come back and I have to say that was a hell of a come back brother!!!)
 
  
