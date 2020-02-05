@@ -19,7 +19,7 @@ Recently, many studies on extending deep learning approaches for graph data have
 
 ![alt text](https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif)
 
-In this nodebook we are going to take 2 GNNs libraries built atop of Pytorch:
+In this notebook we are going to take 2 GNNs libraries built atop of Pytorch:
  - DGL
  - Pytorch Geometric **(still Under Development...)**
  
