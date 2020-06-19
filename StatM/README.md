@@ -4,6 +4,9 @@ This is a simple package to implements 3 key Numerical Analysis iterative algori
 -Regula-Falsi
 -Secant.
 
+You can install this package in your python env. by using **pip install StatM**.
+Disclaimer: this github repo is just to show what's under the package. Feel free to fork it and improve upon it, but don't forget to cite this repo.
+
 You just pass in the formula as an string and the initial approximation(A and B) and it will create an Excel sheet in your current directory.
 
 
