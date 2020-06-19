@@ -1,5 +1,11 @@
 
-This is a simple package. You just pass in the formula as an string and the initial approximation(A and B).
+This is a simple package to implements 3 key Numerical Analysis iterative algorithms:
+-Bisection 
+-Regula-Falsi
+-Secant.
+
+You just pass in the formula as an string and the initial approximation(A and B) and it will create an Excel sheet in your current directory.
+
 
 Default args:
 
