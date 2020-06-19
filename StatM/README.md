@@ -5,6 +5,8 @@ This is a simple package to implements 3 key Numerical Analysis iterative algori
 -Secant.
 
 You just pass in the formula as an string and the initial approximation(A and B) and it will create an Excel sheet in your current directory.
+
+
 ![alt text](https://github.com/Blaizzy/Boring_weekends/blob/master/StatM/Screenshot%20from%202019-05-13%2018-44-15.png)
 
 Default args:
