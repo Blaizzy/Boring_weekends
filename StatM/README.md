@@ -19,10 +19,12 @@ Default args:
 - iter = 8, 
 - dec_places=4
 
----------------Sample Code------------------------
+**---------------Sample Code------------------------**
 
+"""
 import Module
 from statistics.helper import Bisection
 
 s = nasm.secant("x * math.exp(x) - 1")
 s()
+"""
