@@ -21,10 +21,10 @@ Default args:
 
 **---------------Sample Code------------------------**
 
-'''
+<code>
 import Module
 from statistics.helper import Bisection
 
 s = nasm.secant("x * math.exp(x) - 1")
 s()
-'''
+</code>
